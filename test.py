@@ -1,4 +1,5 @@
 a = "Hello"
+spasi = " "
 b = "World"
 
-print(a, " ", b)
+print(a, spasi, b)
