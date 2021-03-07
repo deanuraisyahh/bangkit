@@ -1,6 +1,6 @@
 a = "Hello"
 spasi = " "
 b = "World"
-tanda_seru = "!!!!!!!!!!!11"
+tanda_seru = "!!!!!!!!!!!!!"
 
 print(a, spasi, b, tanda_seru)
